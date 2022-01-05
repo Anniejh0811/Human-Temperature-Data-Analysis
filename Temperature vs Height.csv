@@ -1,0 +1,167 @@
+﻿COUNTRY,TEMPERATURE (C),MALE HEIGHT (CM),TEMPERATURE (C),POPULATION,REGION,WEALTH
+Afghanistan,12.92,165.26,12.92,"28,400,000",Eastern Mediterranean,Low-income
+Albania,11.27,173.39,11.27,"3,639,453",Europe,Upper-middle-income
+Algeria,22.58,170.07,22.58,"34,178,188",Africa,Upper-middle-income
+Angola,21.51,167.31,21.51,"12,799,293",Africa,Upper-middle-income
+Argentina,14.22,174.62,14.22,"40,913,584",Americas,High-income
+Armenia,6.37,172,6.37,"2,967,004",Europe,Lower-middle-income
+Australia,21.51,179.2,21.51,"21,262,641",Western Pacific,High-income
+Austria,6.19,177.41,6.19,"8,210,281",Europe,High-income
+Azerbaijan,12.22,169.75,12.22,"8,238,672",Europe,Upper-middle-income
+Bahamas,25.06,172.75,25.06,"309,156",Americas,High-income
+Bangladesh,25.47,163.81,25.47,"156,050,883",South-East Asia,Lower-middle-income
+Belarus,6.29,178.44,6.29,"9,648,533",Europe,Upper-middle-income
+Belgium,9.51,181.7,9.51,"10,414,336",Europe,High-income
+Belize,25.06,168.73,25.06,"307,899",Americas,Upper-middle-income
+Benin,27.46,167.06,27.46,"8,791,832",Africa,
+hutan,8.58,165.31,8.58,"691,141",South-East Asia,Lower-middle-income
+Bolivia,20.98,166.85,20.98,"9,775,246",Americas,Lower-middle-income
+Bosnia and Herzegovina,9.02,180.87,9.02,"4,613,414",Europe,Upper-middle-income
+Botswana,21.48,171.63,21.48,"1,990,876",Africa,Upper-middle-income
+Brazil,24.92,173.55,24.92,"198,739,269",Americas,Upper-middle-income
+Brunei Darussalam,25.93,165.01,25.93,"388,190",Western Pacific,High-income
+Bulgaria,10.4,178.24,10.4,"7,204,687",Europe,Upper-middle-income
+Burkina Faso,28.18,169.33,28.18,"15,746,232",Africa,Low-income
+Burundi,20.27,166.64,20.27,"8,988,091",Africa,Low-income
+Cambodia,26.94,163.33,26.94,"14,494,293",Western Pacific,Low-income
+Cameroon,24.53,167.82,24.53,"18,879,301",Africa,Lower-middle-income
+Canada,-7.14,178.09,-7.14,"33,487,208",Americas,High-income
+Chad,26.65,170.44,26.65,"10,329,208",Africa,Low-income
+Chile,8.37,171.81,8.37,"16,601,707",Americas,High-income
+China,6.33,171.83,6.33,"1,338,612,970",Western Pacific,Upper-middle-income
+Colombia,24.4,169.5,24.4,"45,644,023",Americas,Upper-middle-income
+Comoros,23.99,166.19,23.99,"734,917",Africa,Low-income
+Costa Rica,23.85,168.93,23.85,"4,253,877",Americas,Upper-middle-income
+Cote d Ivoire,26.3,166.53,26.3,"20,617,068",Africa,Lower-middle-income
+Croatia,10.47,180.78,10.47,"4,489,409",Europe,High-income
+Cuba,25.13,172,25.13,"11,451,652",Americas,Upper-middle-income
+Cyprus,18.71,174.99,18.71,"531,640",Europe,High-income
+Czech Republic,7.67,180.1,7.67,"10,211,904",Europe,High-income
+Democratic Republic of Congo,24.04,166.8,24.04,"68,692,542",Africa,Low-income
+Denmark,7.82,181.39,7.82,"5,500,510",Europe,High-income
+Djibouti,27.64,166.57,27.64,"516,055",Eastern Mediterranean,Lower-middle-income
+Dominican Republic,23.93,172.75,23.93,"9,650,054",Americas,Upper-middle-income
+Ecuador,21.33,167.08,21.33,"14,573,101",Americas,Upper-middle-income
+Egypt,22.12,166.68,22.12,"83,082,869",Eastern Mediterranean,Lower-middle-income
+El Salvador,24.77,169.77,24.77,"7,185,218",Americas,Lower-middle-income
+Equatorial Guinea,24.13,167.36,24.13,"650,702",Africa,High-income
+Eritrea,26.07,168.36,26.07,"5,647,168",Africa,Low-income
+Estonia,5.03,181.59,5.03,"1,299,371",Europe,High-income
+Ethiopia,22.37,166.23,22.37,"85,237,338",Africa,Low-income
+Fiji,23.37,173.9,23.37,"944,720",Western Pacific,Upper-middle-income
+Finland,1.35,179.59,1.35,"5,250,275",Europe,High-income
+France,10.54,179.74,10.54,"64,057,792",Europe,High-income
+Gabon,25,167.94,25,"1,514,993",Africa,Upper-middle-income
+Gambia,26.77,165.4,26.77,"1,782,893",Africa,Low-income
+Georgia,7.36,174.34,7.36,"4,615,807",Europe,Lower-middle-income
+Germany,8.5,179.88,8.5,"82,329,758",Europe,High-income
+Ghana,27.25,168.85,27.25,"23,832,495",Africa,Lower-middle-income
+Greece,13.66,177.32,13.66,"10,737,428",Europe,High-income
+Guatemala,23.07,163.41,23.07,"13,276,517",Americas,Lower-middle-income
+Guinea,25.55,167.54,25.55,"10,057,975",Africa,Low-income
+Guinea Bissau,26.61,167.9,26.61,"1,533,964",Africa,Low-income
+Guyana,25.8,170.21,25.8,"772,298",Americas,Lower-middle-income
+Haiti,24.48,172.64,24.48,"9,035,536",Americas,Low-income
+Honduras,23.39,166.39,23.39,"7,792,854",Americas,Lower-middle-income
+Hungary,10.06,177.26,10.06,"9,905,596",Europe,High-income
+Iceland,1.35,180.49,1.35,"306,694",Europe,High-income
+India,23.95,164.95,23.95,"1,166,079,220",South-East Asia,Lower-middle-income
+Indonesia,25.72,163.55,25.72,"240,271,522",South-East Asia,Lower-middle-income
+Iran,16.93,173.57,16.93,"66,429,284",Eastern Mediterranean,Upper-middle-income
+Iraq,21.58,170.43,21.58,"31,129,225",Eastern Mediterranean,Upper-middle-income
+Ireland,9.11,178.93,9.11,"4,203,200",Europe,High-income
+Israel,19.7,176.86,19.7,"7,233,701",Europe,High-income
+Italy,11.5,177.77,11.5,"58,126,212",Europe,High-income
+Jamaica,24.47,174.53,24.47,"2,825,928",Americas,Upper-middle-income
+Japan,10.36,170.82,10.36,"127,078,679",Western Pacific,High-income
+Jordan,18.35,171.03,18.35,"6,342,948",Eastern Mediterranean,Upper-middle-income
+Kazakhstan,5.99,171.14,5.99,"15,399,437",Europe,Upper-middle-income
+Kenya,24.5,169.64,24.5,"39,002,772",Africa,Lower-middle-income
+Kuwait,25.15,172.07,25.15,"2,691,158",Eastern Mediterranean,High-income
+Kyrgyzstan,1.09,171.24,1.09,"5,431,747",Europe,Lower-middle-income
+Laos,23.22,160.52,23.22,"6,834,942",Western Pacific,Lower-middle-income
+Latvia,5.63,181.42,5.63,"2,231,503",Europe,High-income
+Lebanon,15.61,174.39,15.61,"4,017,095",Eastern Mediterranean,Upper-middle-income
+Lesotho,11.97,165.59,11.97,"2,130,819",Africa,Lower-middle-income
+Liberia,25.25,163.66,25.25,"3,441,790",Africa,Low-income
+Libya,21.9,173.53,21.9,"6,310,434",Eastern Mediterranean,Upper-middle-income
+Lithuania,6.24,179.03,6.24,"3,555,179",Europe,High-income
+Luxembourg,8.88,177.86,8.88,"491,775",Europe,High-income
+Macedonia,9.85,178.33,9.85,"2,066,718",Europe,Upper-middle-income
+Madagascar,22.01,161.55,22.01,"20,653,556",Africa,Low-income
+Malawi,21.98,162.23,21.98,"14,268,711",Africa,Low-income
+Malaysia,25.14,167.88,25.14,"25,715,819",Western Pacific,Upper-middle-income
+Mali,28.3,171.12,28.3,"12,666,987",Africa,Low-income
+Mauritania,27.69,163.28,27.69,"3,129,486",Africa,Lower-middle-income
+Mauritius,23.13,170.5,23.13,"1,296,000",Africa,Upper-middle-income
+Mexico,20.54,169.01,20.54,"111,211,789",Americas,Upper-middle-income
+Moldova,9.67,175.49,9.67,"4,320,748",Europe,Lower-middle-income
+Mongolia,-0.5,169.07,-0.5,"3,041,142",Western Pacific,Upper-middle-income
+Morocco,17.23,170.4,17.23,"34,859,364",Eastern Mediterranean,Lower-middle-income
+Mozambique,23.69,164.8,23.69,"21,669,278",Africa,Low-income
+Myanmar,22.96,164.67,22.96,"48,137,741",South-East Asia,Lower-middle-income
+Namibia,20.04,166.96,20.04,"2,108,665",Africa,Upper-middle-income
+Nepal,12.74,162.32,12.74,"28,563,377",South-East Asia,Low-income
+Netherlands,9.2,182.54,9.2,"16,715,999",Europe,High-income
+New Zealand,9.98,177.74,9.98,"4,213,418",Western Pacific,High-income
+Nicaragua,24.59,166.71,24.59,"5,891,199",Americas,Lower-middle-income
+Niger,27.24,167.68,27.24,"15,306,252",Africa,Low-income
+Nigeria,26.78,165.91,26.78,"149,229,090",Africa,Lower-middle-income
+North Korea,4.86,171.99,4.86,"22,665,345",Western Pacific,Low-income
+Norway,0.75,179.75,0.75,"4,676,305",Europe,High-income
+Oman,25.45,169.16,25.45,"3,418,085",Eastern Mediterranean,High-income
+Pakistan,19.98,166.95,19.98,"176,242,949",Eastern Mediterranean,Lower-middle-income
+Panama,24.72,168.49,24.72,"3,360,474",Americas,Upper-middle-income
+Papua New Guinea,25.05,163.57,25.05,"6,057,263",Western Pacific,Lower-middle-income
+Paraguay,23.48,172.83,23.48,"6,995,655",Americas,Upper-middle-income
+Peru,19.46,165.23,19.46,"29,546,963",Americas,Upper-middle-income
+Philippines,25.33,163.23,25.33,"97,976,603",Western Pacific,Lower-middle-income
+Poland,7.87,177.33,7.87,"38,482,919",Europe,High-income
+Portugal,14.97,172.93,14.97,"10,707,924",Europe,High-income
+Puerto Rico,24.28,172.08,24.28,"3,971,020",Americas,High-income
+Qatar,26.92,170.48,26.92,"833,285",Eastern Mediterranean,High-income
+Republic of Congo,24.52,167.45,24.52,"4,012,809",Africa,Lower-middle-income
+Romania,8.81,174.74,8.81,"22,215,421",Europe,Upper-middle-income
+Russian Federation,-6.32,176.46,-6.32,"140,041,247",Europe,High-income
+Rwanda,19.01,162.68,19.01,"10,473,282",Africa,Low-income
+Saint Vincent and the Grenadines,26.82,172.78,26.82,"109,000",Americas,Upper-middle-income
+Saudi Arabia,24.65,167.67,24.65,"28,686,633",Eastern Mediterranean,High-income
+Senegal,27.87,173.14,27.87,"13,711,597",Africa,Lower-middle-income
+Serbia,10.18,180.57,10.18,"7,379,339",Europe,Upper-middle-income
+Sierra Leone,26.04,164.41,26.04,"6,440,053",Africa,Low-income
+Slovakia,7.27,179.5,7.27,"5,410,000",Europe,High-income
+Slovenia,8.04,179.8,8.04,"2,005,692",Europe,High-income
+Solomon Islands,25.68,164.14,25.68,"595,613",Western Pacific,Lower-middle-income
+Somalia,26.77,166.6,26.77,"9,832,017",Eastern Mediterranean,Low-income
+South Africa,17.6,166.68,17.6,"49,052,489",Africa,Upper-middle-income
+South Korea,10.66,174.92,10.66,"48,508,972",Western Pacific,High-income
+Spain,13.03,176.59,13.03,"40,525,002",Europe,High-income
+Sri Lanka,26.76,165.69,26.76,"21,324,791",South-East Asia,Lower-middle-income
+Sudan,26.82,166.63,26.82,"25,946,220",Eastern Mediterranean,Lower-middle-income
+Suriname,25.77,172.72,25.77,"481,267",Americas,Upper-middle-income
+Swaziland,20.41,168.13,20.41,"1,123,913",Africa,Lower-middle-income
+Sweden,1.55,179.74,1.55,"9,059,651",Europe,High-income
+Switzerland,4.75,178.42,4.75,"7,604,467",Europe,High-income
+Syrian Arab Republic,17.65,170.43,17.65,"20,178,485",Eastern Mediterranean,Lower-middle-income
+Tajikistan,3.03,171.26,3.03,"7,349,145",Europe,Lower-middle-income
+Tanzania,22.31,164.8,22.31,"41,048,532",Africa,Low-income
+Thailand,26.25,169.16,26.25,"65,905,410",South-East Asia,Upper-middle-income
+Timor-Leste,24.97,159.79,24.97,"1,131,612",South-East Asia,Lower-middle-income
+Togo,26.8,168.33,26.8,"6,019,877",Africa,Low-income
+Trinidad and Tobago,25.86,173.74,25.86,"1,310,000",Americas,High-income
+Tunisia,19.36,173.95,19.36,"10,486,339",Eastern Mediterranean,Upper-middle-income
+Turkey,10.93,174.21,10.93,"76,805,524",Europe,Upper-middle-income
+Turkmenistan,15.22,171.97,15.22,"4,884,887",Europe,Upper-middle-income
+Uganda,22.6,165.62,22.6,"32,369,558",Africa,Low-income
+Ukraine,8.21,178.46,8.21,"45,700,395",Europe,Lower-middle-income
+United Arab Emirates,26.83,170.46,26.83,"4,798,491",Eastern Mediterranean,High-income
+United Kingdom,8.31,177.49,8.31,"62,262,000",Europe,High-income
+Uruguay,17.57,173.43,17.57,"3,494,382",Americas,High-income
+USA,6.75,177.13,6.75,"313,973,000",Americas,High-income
+Uzbekistan,12.52,169.38,12.52,"27,606,007",Europe,Lower-middle-income
+Vanuatu,23.84,168.09,23.84,"218,519",Western Pacific,Lower-middle-income
+Venezuela,25.32,171.59,25.32,"26,814,843",Americas,High-income
+Vietnam,24.07,164.45,24.07,"86,967,524",Western Pacific,Lower-middle-income
+Yemen,23.16,159.89,23.16,"23,822,783",Eastern Mediterranean,Lower-middle-income
+Zambia,21.58,166.52,21.58,"11,862,740",Africa,Lower-middle-income
+Zimbabwe,21.03,168.59,21.03,"12,619,600",Africa,Low-income
